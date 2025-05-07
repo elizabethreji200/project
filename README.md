@@ -15,6 +15,8 @@ Files uploaded:
 •	Cleaned_Retail_Data.csv
 
 
+
+
 Project 2:LinkedIn Job Trend Analysis (Web Scraping)
 
 Files uploaded:
